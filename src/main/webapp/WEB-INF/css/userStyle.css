@@ -1,0 +1,14 @@
+table {
+    width: 100%; /* Ширина таблицы */
+    border-collapse: collapse; /* Отображать двойные линии как одинарные */
+}
+
+td, th {
+    border: 1px solid #800; /* Параметры границы */
+    padding: 4px; /* Поля в ячейках */
+}
+
+/*.table, th, tr, td {*/
+/*    border: 1px solid black;*/
+
+/*}*/
